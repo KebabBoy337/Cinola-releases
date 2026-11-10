@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/KebabBoy337/Cinola-releases/main/appcast.xml</link>
     <description>Cinola updates</description>
     <language>en</language>
+    <item>
+      <title>Cinola 0.3.5</title>
+      <pubDate>Tue, 10 Nov 2026 05:09:17 +0100</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>BondMedia is now called Cinola. It's the same app as BondMedia 0.3.5 under a new name.</li><li>Cinola installs as a new app: sign in to your Jellyfin server again. Settings, the Watchlist and downloads from BondMedia don't carry over, and BondMedia can be deleted.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/Cinola-releases/releases/download/v0.3.5/Cinola-0.3.5.zip" type="application/octet-stream" sparkle:edSignature="LhZCU1G4lJbc9vpSy59BRo/mrdLnf3OQS75HpoM0NHolV3OA9E1lT1R8Rvlij0aOZppPalDyCV6R0ueb/Hu3CA==" length="29238584"/>
+    </item>
   </channel>
 </rss>
