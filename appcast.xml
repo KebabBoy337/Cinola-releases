@@ -6,6 +6,15 @@
     <description>Cinola updates</description>
     <language>en</language>
     <item>
+      <title>Cinola 0.3.6</title>
+      <pubDate>Wed, 11 Nov 2026 22:33:02 +0100</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The player's Info tab shows how many connections are filling the buffer, for example “33 s ahead (2 connections)”: two means the server can't keep up on one and Cinola is fetching ahead on a second; “download paused” means the buffer is full.</li><li>Audio and subtitle lists show up to four tracks and scroll past that, so the panel stays compact on files with many dubs.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/Cinola-releases/releases/download/v0.3.6/Cinola-0.3.6.zip" type="application/octet-stream" sparkle:edSignature="u9n/roVJ83iSQONl4fhYhKmSdMRnS0/DY8wyI/17Pj+DBEUCggVLL7EV2/BHLGS+E9AiVQcPiDJXCV+UOfOVBQ==" length="29240039"/>
+    </item>
+    <item>
       <title>Cinola 0.3.5</title>
       <pubDate>Tue, 10 Nov 2026 05:09:17 +0100</pubDate>
       <sparkle:version>57</sparkle:version>
