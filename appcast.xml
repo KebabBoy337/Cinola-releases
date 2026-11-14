@@ -6,6 +6,15 @@
     <description>Cinola updates</description>
     <language>en</language>
     <item>
+      <title>Cinola 0.3.7</title>
+      <pubDate>Sat, 14 Nov 2026 02:54:18 +0100</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Watch Together: admins now see a live panel for each group member: client, play state, timeline, how far behind the leader they are, and whether the server plays the file directly or transcodes it (and why). New buffer mode: Extended (10 min); the old Extended is now Extended (5 min).]]></description>
+      <enclosure url="https://github.com/KebabBoy337/Cinola-releases/releases/download/v0.3.7/Cinola-0.3.7.zip" type="application/octet-stream" sparkle:edSignature="B8ODbXmUAb6Ofih/I0+jwX+IyhQZLLiDGDlprmhGMyuUYH9PYguEHF0yh+jcHYaK/kqAn2KVv7lUP+TrvWceCg==" length="29302289"/>
+    </item>
+    <item>
       <title>Cinola 0.3.6</title>
       <pubDate>Wed, 11 Nov 2026 22:33:02 +0100</pubDate>
       <sparkle:version>59</sparkle:version>
