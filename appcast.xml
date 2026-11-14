@@ -6,6 +6,15 @@
     <description>Cinola updates</description>
     <language>en</language>
     <item>
+      <title>Cinola 0.3.8</title>
+      <pubDate>Sat, 14 Nov 2026 19:42:08 +0100</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Second subtitle language: show two subtitle tracks at once, the second one smaller above the main one (for learning a language, or two languages on one screen). Pick it in the player's Subtitles tab under Second Language, or Option-click a track. Clicking a track still simply switches subtitles. It is remembered per series, and isn't available while the server transcodes.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/Cinola-releases/releases/download/v0.3.8/Cinola-0.3.8.zip" type="application/octet-stream" sparkle:edSignature="fNV/RZ/2LyIgIAO5fxBGc5LyQsRy8yhHh9oAoM0f0CPdCkI8M9qIJbhLzBXCkL46Ws2dwB5OgW4bTrkeVYwEBQ==" length="29327336"/>
+    </item>
+    <item>
       <title>Cinola 0.3.7</title>
       <pubDate>Sat, 14 Nov 2026 02:54:18 +0100</pubDate>
       <sparkle:version>61</sparkle:version>
