@@ -6,6 +6,16 @@
     <description>Cinola updates</description>
     <language>en</language>
     <item>
+      <title>Cinola 0.3.10</title>
+      <pubDate>Tue, 17 Nov 2026 01:40:23 +0100</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Audio tracks show their bitrate in the player panel, and the Info tab has an Audio Format row (codec and bitrate).
+Fixed: after seeking forward and then back (for example in Watch Together), downloading could pause until the buffer ran out and playback stalled. The player now fills the gap right away.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/Cinola-releases/releases/download/v0.3.10/Cinola-0.3.10.zip" type="application/octet-stream" sparkle:edSignature="Auvp258jvx3RO49HBq7Y2M+O3ETeXkfZF3RBKEqvLoytyQe2ZTVPpAD6vdyoKJy8F70vqBHiAMO7VQLGcWUuDA==" length="29333597"/>
+    </item>
+    <item>
       <title>Cinola 0.3.9</title>
       <pubDate>Sun, 15 Nov 2026 22:04:43 +0100</pubDate>
       <sparkle:version>65</sparkle:version>
