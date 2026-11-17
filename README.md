@@ -27,8 +27,8 @@ Cinola is built on open-source components; their licenses are listed in the app
 The playback engine, [AetherEngine](https://github.com/superuser404notfound/AetherEngine)
 (LGPL-3.0 with an App Store exception), ships as its own framework inside the app and can be replaced.
 Cinola uses a modified copy of it (a hook for Headphone Surround, a subtitle prefetcher that stays
-idle while the video buffer already covers it, and a second connection that fetches the next range
-while playback can't keep up). The complete source of that copy is attached to each release as
+idle while the video buffer already covers it, a second connection that fetches the next range
+while playback can't keep up, and a fix that refills a gap in the buffer right after a seek back). The complete source of that copy is attached to each release as
 `AetherEngine-<version>-cinola-source.tar.gz`; `PATCHES.md` inside lists every change from upstream.
 
 Cinola was previously called BondMedia.
